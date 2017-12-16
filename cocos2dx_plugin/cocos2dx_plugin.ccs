@@ -1,0 +1,19 @@
+<Solution>
+  <PropertyGroup Name="cocos2dx_plugin" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="scene">
+          <Folder Name="launcher">
+            <Project Name="ui.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="plugin">
+            <Folder Name="webview">
+              <Project Name="ui.csd" Type="Layer" />
+            </Folder>
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

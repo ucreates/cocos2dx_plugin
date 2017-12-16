@@ -1,0 +1,12 @@
+proj.ios_mac/cocos2dx_plugin.xcodeproj/*
+proj.android/.d
+proj.android/assets/
+proj.android/gen/
+proj.android/libs/armeabi/
+proj.android/local.properties
+proj.android/obj/
+cocos2d/cocos/platform/android/libcocos2dx/
+*.xcuserstate
+xcuserdata/*
+.DS_Store
+bin/

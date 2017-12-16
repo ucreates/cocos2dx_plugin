@@ -1,0 +1,11 @@
+framework module Cocos2dxiOSPlugin {
+  umbrella header "Cocos2dxiOSPlugin.h"
+
+  export *
+  module * { export * }
+}
+
+module Cocos2dxiOSPlugin.Swift {
+    header "Cocos2dxiOSPlugin-Swift.h"
+    requires objc
+}
